@@ -2,3 +2,7 @@
 .vs/MultiplicationTables/v15/Server/sqlite3/storage.ide-shm
 .vs/MultiplicationTables/v15/Server/sqlite3/storage.ide-wal
 .vs/MultiplicationTables/v15/Server/sqlite3/storage.ide
+MultiplicationTables/obj/Debug/netcoreapp2.0/MultiplicationTables.csproj.FileListAbsolute.txt
+MultiplicationTables/bin/Debug/netcoreapp2.0/MultiplicationTables.deps.json
+MultiplicationTables/bin/Debug/netcoreapp2.0/MultiplicationTables.runtimeconfig.json
+MultiplicationTables/bin/Debug/netcoreapp2.0/MultiplicationTables.runtimeconfig.dev.json
